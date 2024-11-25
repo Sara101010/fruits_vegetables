@@ -1,7 +1,7 @@
 ### POST `/food`
 
 ```markdown
-# POST /food
+# POST http://127.0.0.1:8000/food
 ```
 This endpoint allows adding one or more food items to the system.
 

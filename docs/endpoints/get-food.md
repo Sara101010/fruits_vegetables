@@ -1,7 +1,7 @@
 ### GET `/food`
 
 ```markdown
-# GET /food
+# GET http://127.0.0.1:8000/food
 ```
 This endpoint retrieves a list of food items. It accepts query parameters.
 
